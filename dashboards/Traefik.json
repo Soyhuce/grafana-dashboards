@@ -169,7 +169,7 @@
           },
           "yaxes": [
             {
-              "format": "short",
+              "format": "none",
               "label": "Count",
               "logBase": 1,
               "max": null,
@@ -240,7 +240,7 @@
           },
           "yaxes": [
             {
-              "format": "short",
+              "format": "ms",
               "label": null,
               "logBase": 1,
               "max": null,
